@@ -13,8 +13,8 @@ The codes are organized in increasing order of complexity to facilitate progress
 
 1. **Simple Codes:**
    - Basic examples of data input and output
-   - Decision structures (if, else)
-   - Loop structures (for, while)
+   - Decision structures
+   - Loop structures
 
 2. **Intermediate Codes:**
    - Functions and procedures
