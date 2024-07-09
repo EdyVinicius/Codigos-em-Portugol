@@ -41,6 +41,3 @@ Email: evertonvinicius071@gmail.com
 
 Feel free to contact for questions, suggestions, or collaborations.
 
----
-
-This README was generated to provide an overview of the Portugol codes, their organization, and usage instructions. We hope this repository facilitates your learning and development in programming.
